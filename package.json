@@ -1,7 +1,7 @@
 {
   "name": "convert-filename-ja",
   "description": "Convert a string to be able to use as a filename with Japanese characters.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Ryoichi Obara <npmjs0102@gmail.com> (http://ryoichi0102.hatenablog.com/)",
   "bugs": {
     "url": "https://github.com/ryoichi-obara/convert-filename-ja/issues"
